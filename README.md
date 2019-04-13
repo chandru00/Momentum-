@@ -1,5 +1,5 @@
 
-### Name of the app - Momentum (Assignment 3)
+### Name of the app - Momentum (Assignment 3 & 4)
 #### Short description of the app :
 ##### This application works like a similiar kind of momentum of chrome browser externsion and features like timing of the day,todo list, set the today goal,everyloading create a new quotes.
 #### Team Members:
